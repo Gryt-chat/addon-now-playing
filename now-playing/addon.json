@@ -1,0 +1,11 @@
+{
+  "id": "now-playing",
+  "name": "Now Playing",
+  "version": "1.0.0",
+  "type": "plugin",
+  "description": "Shows what you're listening to on your Gryt card, from Spotify, Apple Music, your browser or any player with media controls.",
+  "author": "Gryt",
+  "main": "index.js",
+  "capabilities": ["media", "activity"],
+  "repository": "Gryt-chat/addon-now-playing"
+}
